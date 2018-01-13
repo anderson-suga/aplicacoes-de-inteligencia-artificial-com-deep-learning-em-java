@@ -2,6 +2,8 @@
 
 Este repositório contêm exercícios do curso [Aplicações de Inteligência Artificial com Deep Learning em Java](https://www.datascienceacademy.com.br/pages/curso-aplicacoes-de-inteligencia-artificial-com-deep-learning-em-java) da Data Science Academy.
 
+Link do certificado: https://goo.gl/NQLiuH
+![Data Science Academy - Aplicações de Inteligência Artificial com Deep Learning em Java](https://github.com/anderson-suga/aplicacoes-de-inteligencia-artificial-com-deep-learning-em-java/blob/master/certificate-aplicacoes-de-inteligencia-artificial-com-deep-learning-em-java.png)
 
 # Conteúdo Programático:
 
@@ -204,6 +206,3 @@ Este repositório contêm exercícios do curso [Aplicações de Inteligência Ar
  - Deep Autoencoders
  - Treinamento Layerwise
  - Variational Autoencoder (VAE)
-
-Link do certificado: https://goo.gl/NQLiuH
-![Data Science Academy - Aplicações de Inteligência Artificial com Deep Learning em Java](https://github.com/anderson-suga/aplicacoes-de-inteligencia-artificial-com-deep-learning-em-java/blob/master/certificate-aplicacoes-de-inteligencia-artificial-com-deep-learning-em-java.png)
